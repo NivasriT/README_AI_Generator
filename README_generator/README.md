@@ -22,23 +22,6 @@ This application lets developers simply upload a project ZIP file and instantly 
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-## 📸 Screenshots
-
-### Dashboard
-
-
-### Upload Project
-
-(Add screenshot here)
-
-### Generated README
-
-(Add screenshot here)
-
-### Live Markdown Preview
-
-(Add screenshot here)
-
 ## ✨ Features
 
 - 📦 Upload project ZIP files with drag-and-drop support
