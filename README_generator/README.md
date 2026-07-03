@@ -26,7 +26,6 @@ This application lets developers simply upload a project ZIP file and instantly 
 
 ### Dashboard
 
-(Add screenshot here)
 
 ### Upload Project
 
