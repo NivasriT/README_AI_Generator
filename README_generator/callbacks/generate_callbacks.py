@@ -5,7 +5,7 @@ Handles README generation using Gemini AI
 
 from dash import Input, Output, State, html, ctx
 import dash_bootstrap_components as dbc
-from services.groq_service import GroqService
+from services.groq_service import GeminiService
 import callbacks.upload_callbacks as upload_callbacks
 
 # Global Gemini service instance
