@@ -1,0 +1,16 @@
+# Core Dash Framework
+dash==2.14.2
+dash-bootstrap-components==1.5.0
+gunicorn>=21.2.0
+
+# Groq AI (free, fast, no quota issues)
+groq>=1.5.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Markdown Processing
+markdown==3.5.2
+
+# File Processing
+# Note: zipfile is built into Python standard library
