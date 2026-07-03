@@ -122,38 +122,6 @@ ai-readme-generator/
 └── README.md              # This file
 ```
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/NivasriT/README_AI_Generator.git
-cd README_AI_Generator
-```
-
-2. Create a virtual environment:
-```bash
-python -m venv venv
-# On Windows:
-venv\Scripts\activate
-# On Unix/macOS:
-source venv/bin/activate
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-4. Configure environment variables:
-Create a `.env` file from the example:
-```bash
-cp .env.example .env
-```
-Open `.env` and add your Groq API key:
-```env
-GROQ_API_KEY=gsk_your_actual_api_key_here
-```
-
 ## Usage
 
 1. Start the application:
@@ -161,7 +129,8 @@ GROQ_API_KEY=gsk_your_actual_api_key_here
 python app.py
 ```
 
-2. Open your browser and navigate to `http://localhost:8050`
+2. Open your browser and navigate to `https://readme-ai-generator-la9s.onrender.com/'
+
 
 3. Upload your project ZIP file, click **Generate README**, customize it in the editor, and click **Download README**!
 
@@ -208,6 +177,3 @@ https://github.com/NivasriT
 LinkedIn:
 https://www.linkedin.com/in/nivasri-thirumeni-a6713732a/
 
-## License
-
-MIT License
