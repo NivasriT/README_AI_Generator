@@ -8,4 +8,4 @@ from . import parser_service
 from . import prompt_service
 from . import groq_service
 
-__all__ = ['zip_service', 'parser_service', 'prompt_service', 'gemini_service']
+__all__ = ['zip_service', 'parser_service', 'prompt_service', 'groq_service']
