@@ -131,7 +131,7 @@ ai-readme-generator/
 python app.py
 ```
 
-2. Open your browser and navigate to `https://readme-ai-generator-la9s.onrender.com/'
+2. Open your browser and navigate to `http://127.0.0.1:8050/'
 
 
 3. Upload your project ZIP file, click **Generate README**, customize it in the editor, and click **Download README**!
@@ -165,7 +165,7 @@ Uploaded ZIP files are processed temporarily for README generation and are not s
 
 ## 🌐 Live Demo
 
-https://your-app.onrender.com
+(https://readme-ai-generator-la9s.onrender.com/)
 
 ## 👩‍💻 Author
 
