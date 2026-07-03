@@ -100,6 +100,8 @@ Dash Application
      ├── Markdown Editor
      └── Live Preview
 ```
+# 📁 Project Structure
+
 ```
 ai-readme-generator/
 ├── app.py                 # Main Dash application
